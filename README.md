@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Pawel Maslak! 👋
 
-<!--
-**PawelMaslak/PawelMaslak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website URL](https://img.shields.io/badge/website-Check_it_out-yellow?logo=.net&style=for-the-badge)](https://pawelmaslak.com/)
 
-Here are some ideas to get you started:
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pawelmaslak)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **I'm a Software Engineer passionate about Software Architecture and Cloud Computing**
+
+- 💬 **Ask me about**: .NET, RESTful APIs, SQL Databases, Software Architecture, Design Patterns, Testing
+- 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
+
+<hr/>
+
+<a href="https://github.com/PawelMaslak">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawelmaslak&count_private=true&show_icons=true" />
+</a>
